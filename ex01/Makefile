@@ -6,14 +6,14 @@
 #    By: mproveme <mproveme@student.21-school.ru    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/10/13 18:52:44 by mproveme          #+#    #+#              #
-#    Updated: 2022/10/15 18:32:02 by mproveme         ###   ########.fr        #
+#    Updated: 2022/10/15 18:32:31 by mproveme         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 SRCS	=	main.cpp\
-			newZombie.cpp\
-			randomChump.cpp\
-			Zombie.cpp
+			Zombie.cpp\
+			zombieHorde.cpp
+
 
 OBJS	= 	$(SRCS:.c=.o)
 
