@@ -1,3 +1,5 @@
 *a.out
 *.vscode
 zombie
+*.o
+*violence
